@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <img src="./portfolio.png" alt="" class="logo">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">services</a></li>
+                <li><a href="#">Contact us </a></li>
+                <li><a href="#">About us</a></li>
+            </ul>
+            <a href="#" class="btn">Hire Me</a>
+        </nav>
+        <div class="info">
+            <h1>I am <span>Deekshita</span></h1>
+            <h1>I'm a software developer</h1>
+            <p>Welcome to my official Portfolio Website Where I put all<br> my work relaated to my designs and many more.</p>
+            <a href="#" class="btn">Download cv</a>
+            <div class="img-box">
+                <img src="" alt="" class="back-img">
+                <img src="./WhatsApp_Image_2023-07-30_at_12.22.48_PM-removebg-preview.png"  class="man-img">
+            </div>
+        </div>
+        <div class="social">
+            <a href="#"><i class="fab fa-facebook-square"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a> 
+            
+        </div>
+    </div>
+</body>
+</html>
